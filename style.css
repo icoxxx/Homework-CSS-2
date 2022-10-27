@@ -1,0 +1,100 @@
+body{
+    background-color: #2c3e50;
+    margin: 0px;
+}
+
+#header{
+    font-family: Verdana;
+    background-color: #2980b9;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
+#headerImg{
+    position: relative;
+    left: 300px;
+}
+
+.headerText1{
+    position: relative;
+    left: 35%;
+    bottom: 30px;
+}
+
+.headerText2{
+    position: relative;
+    left: 40%;
+    bottom: 30px;
+}
+
+.headerText3{
+    position: relative;
+    left: 45%;
+    bottom: 30px;
+}
+
+#main{
+    font-family: Verdana;
+    position: relative;
+    color: black;
+    background-color: white;
+    top: 75px;
+    left: 250px;
+    width: 70%;
+}
+
+.mainText{
+    text-align: left;
+    position: relative;
+    left: 50px;
+}
+
+#mainParagraph{
+    text-align: left;
+    display: inline-block;
+    width: 50%;
+    margin: 0px 0px 0px 50px;
+}
+
+#solarImg{
+    position: absolute;
+    left: 60%;
+    top: 300px;
+}
+
+#mainParagraphMercury{
+    text-align: left;
+    display: inline-block;
+    width: 50%;
+    margin: 0px 50px 0px 50px;
+}
+
+#mercuryImg{
+    position: absolute;
+    left: 60%;
+    top: 190px;
+}
+
+#mercuryVideo{
+    position: relative;
+    left: 50px;
+}
+
+#videoParagraph{
+    text-align: left;
+    display: inline-block;
+    width: 40%;
+    margin: 0px 0px 0px 100px;
+}
+
+#jupiterImg{
+    position: absolute;
+    left: 60%;
+    top: 190px;
+}
+
+.planetImgs{
+    position: relative;
+    margin: 0px 10px 20px 50px;
+}
